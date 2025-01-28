@@ -37,7 +37,7 @@ sudo bash cleansnap.sh
 ```
 
 #### 4️⃣ Log File
-After the script finishes running, you can find detailed logs in `/root/cleansnap-script-log.txt`. The log file includes:
+After the script finishes running, you can find detailed logs in `/root/cleansnap-script.log`. The log file includes:
 - The start and end time of the script.
 - Names and revision numbers of the deleted Snaps.
 - Success or failure status of each deletion.
@@ -46,7 +46,7 @@ After the script finishes running, you can find detailed logs in `/root/cleansna
 
 ### ⚠️ Notes
 1. **Always close Snap applications before running the script** to prevent interruptions.
-2. The log file is saved in `/root/cleansnap-script-log.txt`. You can modify the log file path in the script if needed.
+2. The log file is saved in `/root/cleansnap-script.log`. You can modify the log file path in the script if needed.
 3. Ensure your Snap version supports the `--revision` parameter for proper functionality.
 
 ---
@@ -114,7 +114,7 @@ sudo bash cleansnap.sh
 ```
 
 #### 4️⃣ 日志文件
-运行完成后，你可以在 `/root/cleansnap-script-log.txt` 中查看脚本运行的详细日志，包括：
+运行完成后，你可以在 `/root/cleansnap-script.log` 中查看脚本运行的详细日志，包括：
 - 脚本的开始和结束时间。
 - 每个被删除的 Snap 名称和修订版本。
 - 删除是否成功的状态。
@@ -123,7 +123,7 @@ sudo bash cleansnap.sh
 
 ### 注意事项
 1. **请务必先关闭 Snap 应用再运行脚本**，否则可能会影响正在运行的程序。
-2. 日志文件会保存在 `/root/cleansnap-script-log.txt`，你可以根据需要修改脚本中的日志文件路径。
+2. 日志文件会保存在 `/root/cleansnap-script.log`，你可以根据需要修改脚本中的日志文件路径。
 3. 运行脚本时，确保你的 Snap 版本支持 `--revision` 参数。
 
 ---
