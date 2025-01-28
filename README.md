@@ -1,6 +1,6 @@
 # 🧹 Ubuntu Snap Cleaning Script
 
-[🇨🇳 简体中文](https://github.com/lingyicute/Ubuntu-Snap-Cleaning-Script?tab=readme-ov-file#-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | [🇺🇸 English](https://github.com/lingyicute/Ubuntu-Snap-Cleaning-Script/edit/main/README.md#-english)
+[🇨🇳 简体中文](https://github.com/lingyicute/Ubuntu-Snap-Cleaning-Script?tab=readme-ov-file#-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | [🇺🇸 English](https://github.com/lingyicute/Ubuntu-Snap-Cleaning-Script?tab=readme-ov-file#-english)
 
 ---
 
