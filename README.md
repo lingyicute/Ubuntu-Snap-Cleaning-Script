@@ -54,12 +54,12 @@ After the script finishes running, you can find detailed logs in `/root/cleansna
 ### Example Log
 Below is a sample of the log file. Yes, it's this user-friendly!
 ```
-Script Start Time: Tue Jan 28 12:00:00 UTC 2025
-Deleting Snap: firefox, Revision: 42
-Successfully Deleted: firefox, Revision: 42
-Deleting Snap: snapd, Revision: 97
-Failed to Delete: snapd, Revision: 97
-Script End Time: Tue Jan 28 12:05:00 UTC 2025
+Script start time 脚本运行时间: Tue Jan 28 12:00:00 UTC 2025
+Deleting Snap 正在删除: firefox, Revision 修订版本: 42
+Successfully deleted 成功删除: firefox, Revision 修订版本: 42
+Deleting Snap 正在删除: snapd, Revision 修订版本: 97
+Failed to delete 删除失败: snapd, Revision 修订版本: 97
+Script end time 脚本运行结束时间: Tue Jan 28 12:05:00 UTC 2025
 ```
 
 ---
@@ -131,12 +131,12 @@ sudo bash cleansnap.sh
 ### 示例日志
 以下是日志文件的一个小片段。没错，就是这么贴心！
 ```
-脚本运行时间: Tue Jan 28 12:00:00 UTC 2025
-删除 Snap: firefox, 修订版本: 42
-成功删除: firefox, 修订版本: 42
-删除 Snap: snapd, 修订版本: 97
-删除失败: snapd, 修订版本: 97
-脚本运行结束时间: Tue Jan 28 12:05:00 UTC 2025
+Script start time 脚本运行时间: Tue Jan 28 12:00:00 UTC 2025
+Deleting Snap 正在删除: firefox, Revision 修订版本: 42
+Successfully deleted 成功删除: firefox, Revision 修订版本: 42
+Deleting Snap 正在删除: snapd, Revision 修订版本: 97
+Failed to delete 删除失败: snapd, Revision 修订版本: 97
+Script end time 脚本运行结束时间: Tue Jan 28 12:05:00 UTC 2025
 ```
 
 ---
@@ -157,5 +157,4 @@ sudo bash cleansnap.sh
 ### 💖 支持我
 如果你觉得这个脚本对你有帮助，请给它一颗小星星⭐，并分享给更多需要它的人吧！
 
----
-
+### Copyright 2025 lingyicute
