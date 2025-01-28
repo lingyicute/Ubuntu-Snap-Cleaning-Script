@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 定义日志文件路径
-LOG_FILE="/root/cleansnap-script-log"
+LOG_FILE="/root/cleansnap-script-log.txt"
 
 # 记录脚本开始运行时间
 echo "Script start time 脚本运行时间: $(date)" >> "$LOG_FILE"
